@@ -2,6 +2,8 @@
 
 Result of the week OmniStack 7 - Rocketseat
 
+<img src="https://github.com/jnetto23/OmniStack-07/blob/master/screenshots/InstaRocket.png" width="100%" height="auto"/>
+
 ## Objective/Challenge
 
 Using JavaScript from end to end, create a clone of the Instagram Feed/Timeline.
